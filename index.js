@@ -1,9 +1,9 @@
 function shout(String) {
-  return shout.toUpperCase();
+  return String.toUpperCase();
 }
 function whisper(String) {
-  return whisper.toLowerCase();
+  return String.toLowerCase();
 }
 function logShout(String){
-  console.log(logShout).toUpperCase;
+  console.log(String).toUpperCase;
 }
