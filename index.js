@@ -4,6 +4,7 @@ function shout(String) {
 function whisper(String) {
   return String.toLowerCase();
 }
-function logShout(String){
-  console.log(String).toUpperCase;
+function sayHiToGrandma(String){
+  if ("I can't here you!");
+    return String.toUpperCase();
 }
